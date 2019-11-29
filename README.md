@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Second-project
 
 Welcome to the new project
@@ -30,7 +30,37 @@ git clone
 1. git repo
 1. git commit
     
-=======
-# Second--project
-Welcome to the second project : Lets get started.
->>>>>>> acfca7fdca60505a69c297d96db7c87011b7346d
+
+
+    <html>
+
+```
+<html>
+            
+```
+
+
+`code`
+
+------
+
+******
+
+
+-----
+
+
+
+| Comments | Key |
+|---------| :------: |
+| New 1 | 1 |
+
+[Introduction](#Introduction)
+
+[Second project](#Second-project)
+ 
+
+
+ 
+
+
